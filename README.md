@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JavaScript**
 
-- 👨‍💻 All of my projects are available at [(Currently creating a my portfolio website - coming soon!)]((Currently creating a my portfolio website - coming soon!))
+- 👨‍💻 All of my projects are available at [(Currently creating a my portfolio website - coming soon!)]
 
 - 📫 How to reach me **elizabethturay@hotmail.com**
 
