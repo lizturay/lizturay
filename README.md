@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**lizturay/lizturay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1 align="center">Hey👋, I'm Elizabeth Turay</h1>
 <h3 align="center">I am an aspiring Full-Stack Software Developer from the UK.</h3>
 
