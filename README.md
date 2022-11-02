@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Elizabeth Turay</h1>
 <h3 align="center">I am an aspiring Full-Stack Software Developer from the UK.</h3>
 
-- 🔭 I’m currently working on [getting better at codinga and having fun by creating mini projects.](https://github.com/lizturay?tab=repositories)
+- 🔭 I’m currently working on [getting better at coding and having fun by creating mini projects.](https://github.com/lizturay?tab=repositories)
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JavaScript.**
 
