@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at (Currently creating a my portfolio website - coming soon!)
 
-- ⚡ Fun fact **I love gaming, travelling and food!**
+- ⚡ Fun fact **I love gaming, art, fashion, literature, travelling and food!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
