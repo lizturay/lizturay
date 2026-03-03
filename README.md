@@ -1,8 +1,6 @@
 <h1 align="center">Hey👋, I'm Elizabeth Turay</h1>
 <h3 align="center">Software Developer & Cloud Engineer in training | Python | AWS | Backend Development</h3>
 
-- 🌱 I’m currently exploring **Python, MySQL, HTML, CSS, JavaScript.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramgiatuelizabethturay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramgiatuelizabethturay" height="30" width="40" /></a>
