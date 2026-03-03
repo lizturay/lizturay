@@ -1,13 +1,7 @@
 <h1 align="center">Hey👋, I'm Elizabeth Turay</h1>
-<h3 align="center">I am an aspiring Cybersecurity Engineer from the UK.</h3>
+<h3 align="center">Software Developer & Cloud Engineer in training | Python | AWS | Backend Development</h3>
 
-- 🔭 I’m currently working on [getting better at coding and having fun by creating mini projects.](https://github.com/lizturay?tab=repositories)
-
-- 🌱 I’m currently learning **Python, MySQL, HTML, CSS, JavaScript.**
-
-- 👨‍💻 All of my projects are available at (Currently creating a my portfolio website - coming soon!)
-
-- ⚡ Fun fact **I love gaming, art, fashion, literature, travelling and food!**
+- 🌱 I’m currently exploring **Python, MySQL, HTML, CSS, JavaScript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
